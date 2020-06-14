@@ -1,0 +1,151 @@
+!SESSION 2020-06-14 15:29:35.339 -----------------------------------------------
+eclipse.buildId=Version 1.3.0
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/akhilcherukuri/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/akhilcherukuri/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-06-14 15:30:11.472
+!MESSAGE Log4j initialized with config file /Users/akhilcherukuri/Documents/Embedded-C/Instructor/host/.metadata/.log4j.xml
+
+!ENTRY org.eclipse.core.net 1 0 2020-06-14 15:30:12.008
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-06-14 15:30:12.959
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-06-14 15:30:27.496
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:33.894
+!MESSAGE Indexed 'switchCaseArea' (1 sources, 34 headers) in 0.921 sec: 494 declarations; 976 references; 0 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.068%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.226
+!MESSAGE Indexed 'union' (1 sources, 34 headers) in 0.328 sec: 488 declarations; 905 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.475
+!MESSAGE Indexed 'ifstatementCastVote' (1 sources, 34 headers) in 0.242 sec: 481 declarations; 887 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.15%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.638
+!MESSAGE Indexed 'forloopNumberPyramid' (1 sources, 34 headers) in 0.161 sec: 491 declarations; 901 references; 0 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.072%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.747
+!MESSAGE Indexed 'ASCII' (1 sources, 33 headers) in 0.106 sec: 464 declarations; 797 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.860
+!MESSAGE Indexed 'pointer_1' (1 sources, 33 headers) in 0.105 sec: 463 declarations; 799 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:34.982
+!MESSAGE Indexed 'type_casting' (1 sources, 33 headers) in 0.118 sec: 460 declarations; 782 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.083
+!MESSAGE Indexed 'pointer' (1 sources, 33 headers) in 0.099 sec: 461 declarations; 786 references; 0 unresolved inclusions; 3 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.188
+!MESSAGE Indexed 'test' (1 sources, 33 headers) in 0.103 sec: 461 declarations; 784 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.292
+!MESSAGE Indexed 'ifelseifTax' (1 sources, 34 headers) in 0.1 sec: 491 declarations; 921 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.388
+!MESSAGE Indexed 'pointer_2' (1 sources, 34 headers) in 0.094 sec: 483 declarations; 897 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.502
+!MESSAGE Indexed 'WhileLoop1to10' (1 sources, 34 headers) in 0.111 sec: 489 declarations; 898 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.590
+!MESSAGE Indexed 'bitWiseEvenOdd' (1 sources, 32 headers) in 0.086 sec: 456 declarations; 791 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.683
+!MESSAGE Indexed 'math' (2 sources, 34 headers) in 0.09 sec: 482 declarations; 791 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.774
+!MESSAGE Indexed 'function' (1 sources, 33 headers) in 0.089 sec: 467 declarations; 792 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:35.920
+!MESSAGE Indexed 'structInit' (1 sources, 34 headers) in 0.143 sec: 488 declarations; 902 references; 0 unresolved inclusions; 1 syntax errors; 1 unresolved names (0.072%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.077
+!MESSAGE Indexed 'dataAlignment' (1 sources, 34 headers) in 0.154 sec: 499 declarations; 918 references; 0 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.071%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.177
+!MESSAGE Indexed 'forLoopEvenNum' (1 sources, 34 headers) in 0.096 sec: 492 declarations; 908 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.296
+!MESSAGE Indexed 'ifelseBiggestOfTwo' (1 sources, 34 headers) in 0.117 sec: 490 declarations; 912 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.387
+!MESSAGE Indexed 'whileLoopEvenNum' (1 sources, 34 headers) in 0.088 sec: 491 declarations; 915 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.401
+!MESSAGE Indexed 'bitWise2Numbers' (1 sources, 1 headers) in 0.013 sec: 36 declarations; 132 references; 1 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.59%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.486
+!MESSAGE Indexed 'test2' (1 sources, 33 headers) in 0.083 sec: 461 declarations; 789 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.579
+!MESSAGE Indexed 'structPointer' (1 sources, 34 headers) in 0.089 sec: 494 declarations; 915 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.687
+!MESSAGE Indexed 'Average' (1 sources, 33 headers) in 0.101 sec: 462 declarations; 793 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.777
+!MESSAGE Indexed 'ifelseCastVote' (1 sources, 34 headers) in 0.088 sec: 485 declarations; 899 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.876
+!MESSAGE Indexed 'structPacketBitfield' (1 sources, 34 headers) in 0.096 sec: 498 declarations; 964 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:36.974
+!MESSAGE Indexed 'unionBitExraction' (1 sources, 34 headers) in 0.096 sec: 497 declarations; 941 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:37.081
+!MESSAGE Indexed 'structPacket' (1 sources, 22 headers) in 0.105 sec: 452 declarations; 904 references; 0 unresolved inclusions; 3 syntax errors; 18 unresolved names (1.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:37.221
+!MESSAGE Indexed 'constdata' (1 sources, 34 headers) in 0.137 sec: 486 declarations; 898 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:37.356
+!MESSAGE Indexed 'var_address' (1 sources, 33 headers) in 0.133 sec: 459 declarations; 782 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-06-14 15:31:37.445
+!MESSAGE Indexed 'bitWiseSet' (1 sources, 34 headers) in 0.087 sec: 490 declarations; 854 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-06-14 15:35:30.730
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.mingw.exe.debug.1091439177: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-06-14 15:35:30.731
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /Users/akhilcherukuri/Documents/Embedded-C/Instructor/host/ASCII/Debug/ASCII.exe
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:893)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1223)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-06-14 15:35:40.088
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.mingw.exe.debug.1091439177: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-06-14 15:35:40.089
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /Users/akhilcherukuri/Documents/Embedded-C/Instructor/host/ASCII/Debug/ASCII.exe
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:893)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1243)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 1 1 2020-06-14 15:41:08.199
+!MESSAGE No type or version options in toolchain configuration cdt.managedbuild.toolchain.gnu.mingw.exe.debug.1091439177: null; null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2020-06-14 15:41:08.201
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: Failed to get disassembly from file: /Users/akhilcherukuri/Documents/Embedded-C/Instructor/host/ASCII/Debug/ASCII.exe
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:68)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:86)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:893)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1243)
+	at java.lang.Thread.run(Thread.java:748)
